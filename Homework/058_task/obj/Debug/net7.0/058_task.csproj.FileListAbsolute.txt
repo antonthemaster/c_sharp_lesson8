@@ -1,0 +1,15 @@
+E:\Coding\GeekBrains\Practice\C#\Lesson_8\Homework\058_task\bin\Debug\net7.0\058_task.exe
+E:\Coding\GeekBrains\Practice\C#\Lesson_8\Homework\058_task\bin\Debug\net7.0\058_task.deps.json
+E:\Coding\GeekBrains\Practice\C#\Lesson_8\Homework\058_task\bin\Debug\net7.0\058_task.runtimeconfig.json
+E:\Coding\GeekBrains\Practice\C#\Lesson_8\Homework\058_task\bin\Debug\net7.0\058_task.dll
+E:\Coding\GeekBrains\Practice\C#\Lesson_8\Homework\058_task\bin\Debug\net7.0\058_task.pdb
+E:\Coding\GeekBrains\Practice\C#\Lesson_8\Homework\058_task\obj\Debug\net7.0\058_task.csproj.AssemblyReference.cache
+E:\Coding\GeekBrains\Practice\C#\Lesson_8\Homework\058_task\obj\Debug\net7.0\058_task.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\GeekBrains\Practice\C#\Lesson_8\Homework\058_task\obj\Debug\net7.0\058_task.AssemblyInfoInputs.cache
+E:\Coding\GeekBrains\Practice\C#\Lesson_8\Homework\058_task\obj\Debug\net7.0\058_task.AssemblyInfo.cs
+E:\Coding\GeekBrains\Practice\C#\Lesson_8\Homework\058_task\obj\Debug\net7.0\058_task.csproj.CoreCompileInputs.cache
+E:\Coding\GeekBrains\Practice\C#\Lesson_8\Homework\058_task\obj\Debug\net7.0\058_task.dll
+E:\Coding\GeekBrains\Practice\C#\Lesson_8\Homework\058_task\obj\Debug\net7.0\refint\058_task.dll
+E:\Coding\GeekBrains\Practice\C#\Lesson_8\Homework\058_task\obj\Debug\net7.0\058_task.pdb
+E:\Coding\GeekBrains\Practice\C#\Lesson_8\Homework\058_task\obj\Debug\net7.0\058_task.genruntimeconfig.cache
+E:\Coding\GeekBrains\Practice\C#\Lesson_8\Homework\058_task\obj\Debug\net7.0\ref\058_task.dll
